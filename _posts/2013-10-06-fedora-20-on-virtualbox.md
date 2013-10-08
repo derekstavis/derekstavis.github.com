@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fedora 20 on VirtualBox. No Wayland for you!"
+title: "Fedora 20 on VirtualBox: No Wayland for you!"
 category: posts
 ---
 
